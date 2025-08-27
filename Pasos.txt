@@ -1,0 +1,12 @@
+# Usé IA como guía, pero sí aprendí sobre las API.
+
+1. Abrí Visual Studio Code y revisé los archivos que me dieron.
+2. Creé la función trivia_fetch(num) dentro de main.py para que devolviera datos curiosos de un número.
+3. Modifiqué la función main() para que fuera un quiz interactivo con 3 preguntas.
+4. Agregué instrucciones cortas al inicio para que el usuario supiera cómo responder.
+5. Probé el programa varias veces para asegurarme que todo funcionara.
+6. Guardé los cambios en main.py.
+7. Inicialicé Git en la carpeta del proyecto con git init.
+8. Conecté mi repositorio local con GitHub usando git remote add origin <URL>.
+9. Añadí los archivos al commit con git add . y luego hice git commit -m "Primer commit con quiz y trivia_fetch".
+10. Subí todo a GitHub con git push -u origin master.
